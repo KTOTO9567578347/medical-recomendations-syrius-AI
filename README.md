@@ -1,32 +1,32 @@
 # medical-recomendations-syrius-AI
 **система медицинских рекомендаций**
 
-- Файлы которые мы применяем:
+Файлы которые мы применяем:
 
-Массивы данных (залиты на гитхаб):
-- специальности врачей doctor_types.csv
+-Массивы данных (залиты на гитхаб):
+-- специальности врачей doctor_types.csv
 
-- исходный датасет reports.csv
+-- исходный датасет reports.csv
 
-Библиотеки:
+-Библиотеки:
 
-- pandas as pd
+-- pandas as pd
 
-- numpy as np
+-- numpy as np
 
-- pymorphy2
+-- pymorphy2
 
-- re
+-- re
 
-- collections
+-- collections
 
-- nltk
+-- nltk
 
-- os
+-- os
 
-- natasha
+-- natasha
 
-- pymystem3
+-- pymystem3
 
-Результат работы:
-- res.csv
+-Результат работы:
+-- res.csv
