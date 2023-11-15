@@ -10,9 +10,9 @@
 
 - Библиотеки:
 
-  - pandas as pd
+  - pandas
 
-  - numpy as np
+  - numpy
 
   - pymorphy2
 
