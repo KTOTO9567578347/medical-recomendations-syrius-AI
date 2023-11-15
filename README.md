@@ -1,5 +1,5 @@
 # medical-recomendations-syrius-AI
-#System of medical prediction#
+**система медицинских рекомендаций**
 
 - Файлы которые мы применяем:
 
